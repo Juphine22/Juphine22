@@ -2,7 +2,7 @@
 
 Content de vous voir ici
 
-Developpeur Web former dans lecadre du Proget D-clic de l'OIF
+Developpeur Web former dans le cadre du Proget D-clic de l'OIF
 
 ## 🚀 A propos de moi
 Bienvenue sur une partie de ma vie sur internet, je suis une apprenante Développeur et j'aspire à faire carrière dans le développement web en travaillant sur le projet à fort impact au Congo et dans le monde entier.
